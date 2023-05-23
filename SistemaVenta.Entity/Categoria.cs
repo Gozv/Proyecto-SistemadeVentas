@@ -5,6 +5,7 @@ namespace SistemaVenta.Entity;
 
 public partial class Categoria
 {
+
     public int IdCategoria { get; set; }
 
     public string? Descripcion { get; set; }
